@@ -49,5 +49,4 @@ Name = Atham Vahith
 </br>
 </br>
 
-[![Generic badge](https://img.shields.io/badge/Any Doubts..ㅤask@-Mugen-RED.svg)](https://t.me/theRrrobot)
-
+[![Generic badge](https://img.shields.io/badge/AskMugen-@-<COLOR>.svg)](https://t.me/theRrrobot)
