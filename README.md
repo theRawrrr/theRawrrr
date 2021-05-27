@@ -29,14 +29,12 @@
     
 ```python
 ​
-
 name = Atham Vahith
 age = 19
-learning = ["Python3", "HTML", "C"];
-ECA = ['Programmer','ctrlC+ctrlV Coder','Translater','Tech Geek','Custom Roms Tester']
+learning = ["Python3", "HTML", "C"]
+skills = ['Programmer','ctrlC+ctrlV Coder','Translater','Tech Geek','Custom Roms Tester']
 religion = 🇮🇳
 telegram_usrname = @theRawrrr
-  
 ​
 ```
 </h3>
