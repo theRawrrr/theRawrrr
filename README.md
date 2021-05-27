@@ -29,12 +29,15 @@
     
 ```python
 ​
-Name = Atham Vahith
-  age = 19
-  ECA = ['Programmer','ctrlC+ctrlV Coder','Translater','Bachelor of Commerce','Noobie','Tech Geek','Custom Roms Tester']
-  Religion = 🇮🇳
+
+name = Atham Vahith
+age = 19
+learning = ["Python3", "HTML", "C"];
+ECA = ['Programmer','ctrlC+ctrlV Coder','Translater','Tech Geek','Custom Roms Tester']
+religion = 🇮🇳
+telegram_usrname = @theRawrrr
   
-  ​
+​
 ```
 </h3>
 
@@ -48,5 +51,6 @@ Name = Atham Vahith
 <img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 </br>
 </br>
+
 
 [![Generic badge](https://img.shields.io/badge/AskMugen-@-<COLOR>.svg)](https://telegram.dog/theRrrobot)
