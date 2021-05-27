@@ -1,7 +1,7 @@
 # வணக்கம் 🙏
 ### This is Mugeñ ®ao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/theRawrrr) [![telegram badge](https://img.shields.io/badge/Mugeñ ®ao-30302f?style=flat&logo=telegram)](https://telegram.dog/theRawrrr) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://visi.tk/therawrrr)
+[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/theRawrrr) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://visi.tk/therawrrr)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=theRawrrr&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
