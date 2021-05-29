@@ -24,7 +24,6 @@
 </p>
 </br>
 </br>
-
 ### About 🙋🏻‍♂️
 <h3>
     
@@ -46,4 +45,5 @@ telegram_usrname = @theRawrrr
 
 
 
-### Any Doubts?: [![Generic badge](https://img.shields.io/badge/AskMugen-@-<COLOR>.svg)](https://telegram.dog/theRrrobot)
+### Any Doubts?: 
+[![Generic badge](https://img.shields.io/badge/AskMugen-@-<COLOR>.svg)](https://telegram.dog/theRrrobot)
