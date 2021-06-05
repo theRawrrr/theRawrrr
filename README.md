@@ -20,6 +20,15 @@
   <a href="https://www.reddit.com/user/athama_droidlover?utm_medium=android_app&utm_source=share">
     <img align="left" alt="Mugeñ ®ao Reddit" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/reddit.svg" />
   </a>
+  <a href="mailto:athamvahith@gmail.com">
+    <img align="left" alt="Mugeñ ®ao Mail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
+  </a>
+  <a href="https://www.snapchat.com/add/atham_5n0t7">
+    <img align="left" alt="Mugeñ ®ao Snapchat" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/snapchat.svg" />
+  </a>
+  <a href="https://github.com/theRawrrr">
+    <img align="left" alt="Mugeñ ®ao Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
+  </a>
   <a href="https://visi.tk/therawrrr">
     <img align="left" alt="Mugeñ ®ao Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
   </a>
