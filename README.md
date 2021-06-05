@@ -14,11 +14,14 @@
   <a href="https://twitter.com/thm76893472">
     <img align="left" alt="Mugeñ ®ao Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
   </a>
-  <a href="https://visi.tk/therawrrr">
-    <img align="left" alt="Mugeñ ®ao Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
-  </a>
   <a href="https://telegram.dog/theRawrrr">
     <img align="left" alt="Mugeñ ®ao Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
+  <a href="https://www.reddit.com/user/athama_droidlover?utm_medium=android_app&utm_source=share">
+    <img align="left" alt="Mugeñ ®ao Reddit" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/reddit.svg" />
+  </a>
+  <a href="https://visi.tk/therawrrr">
+    <img align="left" alt="Mugeñ ®ao Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
   </a>
   
 </p>
