@@ -3,8 +3,6 @@
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/theRawrrr) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://visi.tk/therawrrr)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=theRawrrr&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Available 👇
 <p>
