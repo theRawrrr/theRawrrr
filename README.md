@@ -42,14 +42,18 @@
 <h3>
     
 ```python
-​
-name = Atham Vahith
+name = "Atham Vahith"
 age = 19
 learning = ["Python3", "HTML", "C"]
-skills = ['Programmer','ctrlC+ctrlV Coder','Translater','Tech Geek','Custom Roms Tester']
-religion = 🇮🇳
-telegram_usrname = @theRawrrr
-​
+skills = [
+    "Programmer",
+    "ctrlC+ctrlV Coder",
+    "Translater",
+    "Tech Geek",
+    "Custom Roms Tester"
+]
+religion = "🇮🇳"
+telegram_usrname = "@theRawrrr"
 ```
 </h3>
 
