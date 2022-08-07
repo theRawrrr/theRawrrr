@@ -44,9 +44,10 @@
 ```python
 ​
 name = Atham Vahith
-age = 19
-learning = ["Python3", "HTML", "C"]
+age = 20
+learning = ["Python3", "JAVA☕", "C"]
 skills = ['Programmer','ctrlC+ctrlV Coder','Translater','Tech Geek','Custom Roms Tester']
+projects = [PredatorZNEXBots, Miss Minutes]
 religion = 🇮🇳
 telegram_usrname = @theRawrrr
 ​
@@ -64,4 +65,4 @@ telegram_usrname = @theRawrrr
 
 
 ### Any Doubts?: 
-[![Generic badge](https://img.shields.io/badge/AskMugen-@-<COLOR>.svg)](https://telegram.dog/theRrrobot)
+[![Generic badge](https://img.shields.io/badge/AskMugen-@-<COLOR>.svg)](https://telegram.dog/theRawrrr)
