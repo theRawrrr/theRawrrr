@@ -44,10 +44,10 @@
 ```python
 ​
 name = Atham Vahith
-age = 20
+age = 21
 learning = ["Python3", "JAVA☕", "C"]
-skills = ['Programmer','ctrlC+ctrlV','Translater','Geek','Custom Roms Tester']
-projects = ["PredatorZNEXBots", "Miss Minutes"]
+skills = ['Programmer','ctrlC+ctrlV','Cyber Security Enthusiast','Translater','Geek','Custom Roms Tester']
+projects = ["PredatorZNEXBots", "Miss Minutes", "Secure File Encryption"]
 religion = 🇮🇳
 telegram_usrname = @theRawrrr
 ​
