@@ -44,8 +44,8 @@
 ```python
 ​
 name = Atham Vahith
-age = 21
-learning = ["Python3", "JAVA☕", "C"]
+age = 22
+learning = ["Python3", "C", "C++"]
 skills = ['Programmer','ctrlC+ctrlV','Cyber Security Enthusiast','Translater','Geek','Custom Roms Tester']
 projects = ["PredatorZNEXBots", "Miss Minutes", "Secure File Encryption"]
 religion = 🇮🇳
